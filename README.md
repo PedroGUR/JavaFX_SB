@@ -32,7 +32,3 @@ _Esta creado y añadido el controlador "Login" y el "Login.fxml", pero falla en 
 ## Autores ✒️
 
 * **Pedro** - *Trabajo Inicial* 
-
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
